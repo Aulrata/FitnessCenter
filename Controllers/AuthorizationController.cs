@@ -12,5 +12,12 @@ namespace FitnessCenter.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> SignIn()
+        {
+
+            return Ok();
+        }
     }
 }

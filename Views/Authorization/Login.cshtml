@@ -5,7 +5,7 @@
 <div class="login-window">
     <form id="loginForm">
         <div class="mb-3">
-            <label class="form-label">Телефон/Email </label>
+            <label class="form-label">Email </label>
             <input name="login" type="text" />
         </div>
         <div class="mb-3">
@@ -18,3 +18,17 @@
         </div>
     </form> 
 </div>
+
+@section Scripts
+    {
+    <script>
+        $('#login').on('click', function (e) {
+            e.preventDefault();
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action($"SignIn", "Authorization")',
+                data: $('#loginForm').serialize(),
+            });
+        });
+    </script>
+}
