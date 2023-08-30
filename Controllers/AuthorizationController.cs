@@ -8,5 +8,9 @@ namespace FitnessCenter.Controllers
         {
             return View();
         }
+        public IActionResult Registration()
+        {
+            return View();
+        }
     }
 }

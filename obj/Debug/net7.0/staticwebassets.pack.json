@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\FitnessCenter.bundle.scp.css"
     },
     {
-      "Id": "C:\\D\\Programming\\C#\\Projects\\FitnessCenter\\wwwroot\\css\\login.css",
-      "PackagePath": "staticwebassets\\css\\login.css"
-    },
-    {
       "Id": "C:\\D\\Programming\\C#\\Projects\\FitnessCenter\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

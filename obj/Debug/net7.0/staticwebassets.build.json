@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Rzxajth3eZV4IlEUujQv7g49MRKE4lWb0hW+gzK2+no=",
+  "Hash": "OG8sV/31pf62vWvdnfNxaBYjEQJnpQkm4FdeLcEUVag=",
   "Source": "FitnessCenter",
   "BasePath": "_content/FitnessCenter",
   "Mode": "Default",
@@ -49,23 +49,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\D\\Programming\\C#\\Projects\\FitnessCenter\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FitnessCenter.bundle.scp.css"
-    },
-    {
-      "Identity": "C:\\D\\Programming\\C#\\Projects\\FitnessCenter\\wwwroot\\css\\login.css",
-      "SourceId": "FitnessCenter",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\D\\Programming\\C#\\Projects\\FitnessCenter\\wwwroot\\",
-      "BasePath": "_content/FitnessCenter",
-      "RelativePath": "css/login.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
       "Identity": "C:\\D\\Programming\\C#\\Projects\\FitnessCenter\\wwwroot\\css\\site.css",
