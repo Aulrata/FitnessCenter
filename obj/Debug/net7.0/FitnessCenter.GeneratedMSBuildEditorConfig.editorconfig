@@ -12,20 +12,12 @@ build_property.RootNamespace = FitnessCenter
 build_property.ProjectDir = C:\D\Programming\C#\Projects\FitnessCenter\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\D\Programming\C#\Projects\FitnessCenter
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/D/Programming/C\#/Projects/FitnessCenter/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/D/Programming/C\#/Projects/FitnessCenter/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/D/Programming/C\#/Projects/FitnessCenter/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[C:/D/Programming/C\#/Projects/FitnessCenter/Views/Authorization/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aG9yaXphdGlvblxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/D/Programming/C\#/Projects/FitnessCenter/Views/Shared/_ValidationScriptsPartial.cshtml]
